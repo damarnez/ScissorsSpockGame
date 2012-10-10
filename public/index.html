@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Scissors Paper Rock Lizard Spock</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="domothings">
+
+    <!-- Le styles -->
+    <link href="assets/bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="assets/bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
+    <style type="text/css">
+     
+      header{
+        padding-bottom:100px;
+        display:block;
+
+      }
+    </style>
+    <link href="assets/jquery-ui-1.8.22/css/ui-lightness/jquery-ui-1.8.22.custom.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+    
+</head>
+<body>
+<div id="header"class="navbar navbar-fixed-top">
+   HEADER    
+</div>
+
+<div id="main-view" class="container">
+   <div id="users">
+    HEADER    
+   </div>
+   <img src="./img/loading.gif" width="100" heigth="100"/>
+</div> <!-- END CONTAINER -->
+<!-- MODALS -->
+<div class="modal hide" id="modals">
+</div>
+
+</body>
+
+    <!--
+    Javascript
+    ================================================== 
+    -->
+    <script src="assets/jquery-ui-1.8.22/js/jquery-1.7.2.min.js"></script>
+    <script src="assets/jquery-ui-1.8.22/js/jquery-ui-1.8.22.custom.min.js"></script>
+   
+    <script src="assets/bootstrap/js/bootstrap.js"></script>
+        
+     <!-- BACKBONE CLASS -->
+    <script  src="assets/underscore/underscore-min.js"></script>
+    <script  src="assets/backbone/backbone-optamd3-min.js"></script>
+    <script src="http://localhost:3002/socket.io/socket.io.js"></script>
+    <script  src="assets/backbone.iobind-0.4.1/backbone.iosync.js"></script>
+    <script  src="assets/backbone.iobind-0.4.1/backbone.iobind.js"></script>
+    <script  src="js/app.js"></script>
+    <script  src="js/router.js"></script>
+    <script  src="js/events.js"></script>
+    <!-- COLLECTIONS   -->
+    <script  src="js/collections/timers.js"></script>
+    <script  src="js/collections/users.js"></script>
+    <!-- MODELS -->
+    <script  src="js/models/timer.js"></script>
+    <script  src="js/models/user.js"></script>
+    <script  src="js/models/item.js"></script>
+    <!-- VIEWS -->
+    <script  src="js/views/list_users.js"></script>
+    <script  src="js/views/main.js"></script>
+    <script  src="js/views/wait.js"></script>
+    <script  src="js/views/play.js"></script>
+
+</html>

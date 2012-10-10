@@ -1,0 +1,15 @@
+<ul>
+<% _.each(users,function(user){%>
+	<li class="users">
+		<ul style="display:list; list-style: none outside none;text-align: center;">
+			<li>
+				<img src="img/users/<%= user.img %>" class="img-circle" style="width:100px;height:100px;">
+			</li>
+			<li>
+				<span><%=user.name%>
+			</li>
+		</ul>
+	</li>		
+<%	}); %>
+</ul>
+<div style="clear:both;"/>
