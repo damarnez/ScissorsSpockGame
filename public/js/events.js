@@ -16,8 +16,8 @@
   window.socket.on('FINISH_ROUND', function (data) {
       console.log(data);  
       self.$("#content").empty();
-      alert(data);
-     
+      App.currentView = App.views.win = new App.Views.Win({user:data});
+      self.$('#content').html(App.currentView.render());
   });
   
 })();

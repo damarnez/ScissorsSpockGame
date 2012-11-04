@@ -3,7 +3,12 @@
 	<li class="users">
 		<ul style="display:list; list-style: none outside none;text-align: center;">
 			<li>
-				<img src="img/users/<%= user.img %>" class="img-circle" style="width:100px;height:100px;">
+				<% if(user.id ===  localStorage.id_user) { %>
+				--
+					<img src="img/users/<%= user.img %>" class="img-circle" style="width:100px;height:100px;border:2px;">
+				<% }else{ %>
+					<img src="img/users/<%= user.img %>" class="img-circle" style="width:100px;height:100px;">
+				<% }%>
 			</li>
 			<li>
 				<span><%=user.name%>

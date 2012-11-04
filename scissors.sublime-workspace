@@ -1,0 +1,784 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"in",
+				"inline-table"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"bor",
+				"border-left"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"margin",
+				"margin_left"
+			],
+			[
+				"compan",
+				"company_insert"
+			],
+			[
+				"is",
+				"isNaN"
+			],
+			[
+				"compa",
+				"company_insert"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"request",
+				"request_info"
+			],
+			[
+				"Re",
+				"ResponseBody"
+			],
+			[
+				"he",
+				"height"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "public/css/style.css",
+			"settings":
+			{
+				"buffer_size": 2665,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/templates/home/login.html",
+			"settings":
+			{
+				"buffer_size": 297,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/index.html",
+			"settings":
+			{
+				"buffer_size": 2328,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/templates/home/wait.html",
+			"settings":
+			{
+				"buffer_size": 135,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/templates/home/play.html",
+			"settings":
+			{
+				"buffer_size": 759,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/router.js",
+			"settings":
+			{
+				"buffer_size": 5429,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/templates/home/list_users.html",
+			"settings":
+			{
+				"buffer_size": 544,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/js/events.js",
+			"settings":
+			{
+				"buffer_size": 714,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/templates/home/win.html",
+			"settings":
+			{
+				"buffer_size": 156,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/js/views/win.js",
+			"settings":
+			{
+				"buffer_size": 805,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"comme",
+				"Toggle Comment"
+			],
+			[
+				"Pack",
+				"Package Control: Add Channel"
+			],
+			[
+				"",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control",
+				"Package Control: Add Repository"
+			],
+			[
+				"Snippet: ",
+				"Snippet: if"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/css/style.css",
+		"/Users/mapache/Library/Application Support/Sublime Text 2/Packages/CSScomb/Default (OSX).sublime-keymap",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/templates/home/leftmenu.html",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/js/views/controllers/detail_controllers.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/js/views/configuration/configuration.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/templates/configuration/configuration.html",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/templates/controllers/detail_controllers.html",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/js/views/detail/graphic.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/js/views/detail/detail.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/js/views/detail/submenudetail.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/templates/detail/submenu.html",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/index.html",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/js/router.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/js/views/home/content.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/js/views/home/leftmenu.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/templates/home/devices_type/switch.html",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/js/views/home/grid.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/css/swich.css",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/templates/home/devices_type/temp.html",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/js/views/home/submenu.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/templates/home/main.html",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/templates/header/header.html",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/assets/supr/js/statistic.js",
+		"/Users/mapache/Documents/Develop/keys/marc/marc.pem",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/js/views/configuration/leftmenu.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/js/views/devices/list_devices.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/js/views/home/devices_type/switch.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/templates/home/devices_type/button.html",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/templates/home/devices_type/bar.html",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/templates/detail/detail.html",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/assets/supr/css/icons.css",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/assets/supr/css/main.css",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/templates/detail/table.html",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/templates/controllers/install_code_instructions.html",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/js/app.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/js/views/home/main.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/lib/entities/history.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/js/views/devices/mini_graphic_devices.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/js/views/configuration/main.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/js/views/detail/main.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/templates/configuration/submenu.html",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/js/views/controllers/list_controllers.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/js/views/home/devices_type/temp.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/assets/supr/js/main.js",
+		"/Users/mapache/Downloads/meteo8862/style.css",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/templates/home/submenu.html",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/js/views/configuration/submenu.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/templates/configuration/leftmenu.html",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/templates/devices/graphic_devices.html",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/templates/devices/mini_graphic_devices.html",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/js/views/devices/graphic_devices.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/lib/rest_api/controller.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/js/views/home/devices_type/button.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/js/views/messages.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/js/views/controllers/add_controllers.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/templates/controllers/add_controllers.html",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/templates/devices/add_devices.html",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/js/views/devices/add_devices.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/js/views/devices/remove_devices.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/js/views/controllers/remove_controllers.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/login.html",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/css/login.css",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/js/views/home/devices_type/relay.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/templates/error.html",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/templates/alert.html",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/templates/success.html",
+		"/Users/mapache/Documents/Develop/workspace_personal/lib/rest_api/device.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/templates/devices/add_devices/select_port.html",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/img/no_port.png",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/templates/home/messages/warning_no_devices_found.html",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/templates/configuration/messages/warning_no_controllers_found.html",
+		"/Users/mapache/Documents/Develop/workspace_personal/lib/populate_model/pop_model_1.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/lib/entities/controller.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/lib/runners/histories.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/templates/configuration/messages/warning_no_controllers_found",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/templates/devices/list_devices.html",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/templates/controllers/controller_devices.html",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/js/views/controllers/controller_devices.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/js/views/devices/device.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/templates/controllers/list.html",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/templates/home/devices_type/relay.html",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/js/views/devices/devicesGraphic.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/js/views/controllers/list.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/templates/controllers/remove_controller.html",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/js/views/controllers/remove_controller.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/js/views/devices/remove_device.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/templates/devices/remove_device.html",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/js/views/devices/edit.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/js/views/devices/add_device.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/templates/devices/add_device.html",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/js/views/contact/contact.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/assets/morris/examples/months-no-smooth.html",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/js/views/devices/detail.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static_02/js/views/home/main.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/templates/home/grid.html",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/assets/domo/jDomoSpotlight.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/js/collections/devices.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/js/views/home/gridelements.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/templates/home/device_type/button.html",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static_02/templates/home/device_views/1_switch.html",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/templates/home/device_type/bar.html",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/templates/home/device_type/graphic.html",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static_02/assets/img/logo.png",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static_02/js/views/rooms/add_room.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static_02/js/views/rooms/add_room_devices.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static_02/js/views/rooms/administration.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static_02/js/views/rooms/list_rooms.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static_02/js/views/rooms/remove_room.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static_02/js/views/rooms/room_devices.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/js/views/header/header.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/index_old.html",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/index_new.html",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/templates/header.html",
+		"/Users/mapache/Documents/Develop/workspace_personal/app.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/lib/router/login.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/auth.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/lib/mongoose_init.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/lib/entities/device.js",
+		"/Users/mapache/Desktop/blog/populate.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/js/libs/require/require.js",
+		"/Users/mapache/Downloads/okfn-recline-c285cdf/demos/data/sample.csv",
+		"/Users/mapache/Downloads/okfn-recline-c285cdf/demos/index.html",
+		"/Users/mapache/Downloads/okfn-recline-c285cdf/demos/multiview/index.html",
+		"/Users/mapache/Downloads/okfn-recline-c285cdf/_includes/example-backends-csv-disk.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/lib/rest_api/feedback.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/img/arduino_img.png",
+		"/Users/mapache/Documents/Develop/workspace_web/addFleet/www/apis/lib/controllers/login.js",
+		"/Users/mapache/Documents/Develop/workspace_nodejs/master_panel/lib/helper/request_helper"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open files>,<open folders>",
+			"<open files>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"count_id",
+			"widget-button-onoff",
+			"apikey",
+			"api",
+			"icomoon",
+			"cog-2",
+			"icomoon",
+			"\n		",
+			"bind",
+			"pieStats",
+			"main",
+			"DeviceHistory",
+			"line",
+			"chars",
+			"meteo",
+			"therm",
+			"light",
+			"icomoon-icon-light-bulb",
+			"hardware",
+			"icomoon-icon-hardware",
+			"sub",
+			"icomoon-icon-",
+			"[data-icon]",
+			"[data-icon]:before ",
+			"moon",
+			"images",
+			"grid",
+			"main-view",
+			"<a",
+			"creo nueva",
+			"document",
+			"Room",
+			"btn-add ",
+			".btn-add ",
+			".subnav.btn-add ",
+			".subnav .btn-add ",
+			"App.Views.ControllerDevices",
+			"App.Views.DevicesList",
+			"DeviceList",
+			"deviceList",
+			"DeviceList",
+			"body",
+			"	          \n",
+			"GridElements",
+			"homedevices",
+			"body",
+			"user",
+			"resolution",
+			"username",
+			"img/arduino_img.png",
+			"search",
+			"header",
+			"params",
+			"parameter",
+			"parameters",
+			"db",
+			"bd",
+			"fs",
+			"processRequest",
+			"headers",
+			"POST",
+			"module",
+			"Company Created",
+			"new_company",
+			"console.log",
+			"inettuts.js",
+			"inettuts.js.css",
+			"console",
+			"infoWindow",
+			"https",
+			"console",
+			"app"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"content"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "public/css/style.css",
+					"settings":
+					{
+						"buffer_size": 2665,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								320,
+								320
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "public/templates/home/login.html",
+					"settings":
+					{
+						"buffer_size": 297,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								279,
+								279
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "public/index.html",
+					"settings":
+					{
+						"buffer_size": 2328,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								690,
+								690
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 190.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "public/templates/home/wait.html",
+					"settings":
+					{
+						"buffer_size": 135,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								35,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "public/templates/home/play.html",
+					"settings":
+					{
+						"buffer_size": 759,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								737,
+								737
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "lib/router.js",
+					"settings":
+					{
+						"buffer_size": 5429,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5225,
+								5225
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2524.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "public/templates/home/list_users.html",
+					"settings":
+					{
+						"buffer_size": 544,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								202,
+								202
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "public/js/events.js",
+					"settings":
+					{
+						"buffer_size": 714,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								458,
+								473
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "public/templates/home/win.html",
+					"settings":
+					{
+						"buffer_size": 156,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								49,
+								49
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "public/js/views/win.js",
+					"settings":
+					{
+						"buffer_size": 805,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								202,
+								202
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.jslint_result_view":
+	{
+		"height": 393.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/mapache/Documents/Develop/workspace_github/bingoGame/bingo.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 262.0,
+	"status_bar_visible": true
+}
